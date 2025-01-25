@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $sql = "INSERT INTO contact (Name, Email, Phone, Message) VALUES ('$name', '$email' , '$phone' , '$message')";
 
     if ($conn->query($sql) === TRUE) {
-       header("Location:thankyou.php");
+       header("Location:thankyou");
 
     } else {
         echo "Error: " . $sql . "<br>" . $conn->error;
