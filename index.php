@@ -230,7 +230,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="popup" class="popup">
         <div class="popup-content">
             <span class="close-btn" id="closeBtn">&times;</span>
-            <img src="img\popup.jpg" alt="Popup Image" class="popup-image">
+            <img src="img\popup.jpeg" alt="Popup Image" class="popup-image">
         </div>
         <div>
             <!-- <a href="" class="btn btn-danger btn-lg">Apply now</a> -->
