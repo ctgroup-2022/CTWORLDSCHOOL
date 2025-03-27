@@ -262,6 +262,32 @@
           "IMG": "img/gallery/Annual Function/7.jpg"
         }
       ]
+    },
+    {
+      "EVENTID": "14",
+      "eventname": " Academic Regalia - 'The kindergarten Graduation'",
+      "titleimage": "img/gallery/graduation/graduation1.jpg",
+      "description":"The event between Academic Regalia - 'The kindergarten Graduation'",
+      "PHOTO": [
+        {
+          "IMG": "img/gallery/graduation/graduation1.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation2.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation3.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation4.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation5.jpg"
+        },
+        {
+          "IMG": "img/gallery/graduation/graduation6.jpg"
+        }
+      ]
     }
   ]
 }

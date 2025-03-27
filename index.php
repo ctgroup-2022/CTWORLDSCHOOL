@@ -263,7 +263,8 @@ document.addEventListener('DOMContentLoaded', function() {
             <h1 class="display-5 bg-success text-white text-center mt-3">Latest News</h1>
             <marquee width="100%" direction="up" height="350px" scrollamount="5" style="padding:16px;" onmouseover="this.stop();" onmouseout="this.start();">
                 <ol class="lead">
-                <img src="img/icon/new2.png" alt="latest news" style="height:auto; width:50px;"> <span>  
+                <img src="img/icon/new2.png" alt="latest news" style="height:auto; width:50px;"> <span>
+                <li class="text-body">CT World School organised Academic Regalia - Graduation Ceremony for KG 2 students.</li><br>    
                 <li class="text-body">CT World School held its Annual Function "Rangmanch" with full zeal and fervor</li><br>
                     <li class="text-body">CT World School celebrated navratri with a lively 'Dandiya Night' in which around 500 people participated.
                     </li><br>
