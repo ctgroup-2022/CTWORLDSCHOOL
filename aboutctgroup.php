@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <title>aboutus-best-school-in-jalandhar</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
+    <meta content="Best School In Jalandhar" name="keywords">
     <meta content="" name="description">
     <!-- favicon -->
     <link rel="shortcut icon" href="img/favicon_io/favicon.ico">
