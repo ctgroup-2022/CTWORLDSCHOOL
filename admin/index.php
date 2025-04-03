@@ -19,7 +19,7 @@ session_start();
 
   <link rel="stylesheet" href="css/style.css" />
 
-  <title>Admin Login</title>
+  <title>Admin Login </title>
 
 </head>
 
